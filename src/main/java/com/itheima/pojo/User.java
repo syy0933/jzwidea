@@ -7,7 +7,7 @@ package com.itheima.pojo;
  */
 public class User {
     private  String  username;
-    private  String password;//1233433142342
+    private  String password;
     private  Integer id;//用户id
 
 }
