@@ -8,4 +8,7 @@ package com.itheima.pojo;
 public class User {
     private  String  username;
     private  Integer id;//用户id////////
+
+
+
 }
