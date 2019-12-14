@@ -14,6 +14,9 @@ public class User {
     private int  ir;
     private int  irs1;
 
+
+
+
     public User(String username1) {
         this.username1 = username1;
     }
