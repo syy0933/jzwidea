@@ -33,4 +33,8 @@ public class User {
         this.tid = tid;
         this.idt = idt;
     }
+
+    public String getUsername1() {
+        return username1;
+    }
 }
