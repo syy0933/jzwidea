@@ -6,7 +6,7 @@ package com.itheima.pojo;
  * 日期2019-10-12  23:49
  */
 public class User {
-    private  String  username;
+    private  String  username1;
     private  Integer id;//用户id////////
 
 
