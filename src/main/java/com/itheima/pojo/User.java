@@ -15,4 +15,12 @@ public class User {
     public static void main(String[] args) {
 
     }
+
+    public User(String username1, Integer id, Integer sid, Integer tid, int idt) {
+        this.username1 = username1;
+        this.id = id;
+        this.sid = sid;
+        this.tid = tid;
+        this.idt = idt;
+    }
 }
