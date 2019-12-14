@@ -21,8 +21,7 @@ public class User {
 
 
     int j;
-
-
+    int a;
 
 
 
