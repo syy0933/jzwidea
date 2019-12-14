@@ -15,6 +15,16 @@ public class User {
     public static void main(String[] args) {
 
     }
+    private int  ids;
+    private int  ir;
+    private int  irs1;
+
+
+
+
+    public User(String username1) {
+        this.username1 = username1;
+    }
 
     public User(String username1, Integer id, Integer sid, Integer tid, int idt) {
         this.username1 = username1;
