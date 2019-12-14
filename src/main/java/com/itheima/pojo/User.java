@@ -20,6 +20,10 @@ public class User {
     private int  irs1;
 
 
+    int j;
+
+
+
 
 
     public User(String username1) {
