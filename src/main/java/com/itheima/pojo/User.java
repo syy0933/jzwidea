@@ -15,8 +15,4 @@ public class User {
     private int  irs1;
 
 
-
-
-
-
 }
