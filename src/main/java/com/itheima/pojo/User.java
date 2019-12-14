@@ -23,7 +23,7 @@ public class User {
     int j;
     int b;
 
-    Integer a;
+
     Integer H;
 
 
