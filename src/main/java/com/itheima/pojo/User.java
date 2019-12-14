@@ -12,6 +12,11 @@ public class User {
     private  Integer tid;//用户id////////
     private int  ids;
     private int  ir;
+    private int  irs1;
+
+
+
+
 
 
 }
