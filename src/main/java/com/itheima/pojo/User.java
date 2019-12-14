@@ -19,7 +19,7 @@ public class User {
     private int  ir;
     private int  irs1;
 
-
+    Integer a;
 
 
     public User(String username1) {
