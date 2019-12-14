@@ -11,4 +11,6 @@ public class User {
     private  Integer sid;//用户id////////
     private  Integer tid;//用户id////////
     private int  ids;
+
+
 }
