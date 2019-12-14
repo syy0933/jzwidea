@@ -25,7 +25,6 @@ public class User {
     Integer H;
 
 
-
     public User(String username1) {
         this.username1 = username1;
     }
