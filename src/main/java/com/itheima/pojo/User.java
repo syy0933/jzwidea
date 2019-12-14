@@ -19,6 +19,10 @@ public class User {
     private int  ir;
     private int  irs1;
 
+
+    int j;
+    int a;
+
     Integer a;
 
 
