@@ -22,8 +22,9 @@ public class User {
 
     int j;
     int b;
-    Integer H;
 
+    Integer H;
+    Integer a;
 
 
     public User(String username1) {
