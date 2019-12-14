@@ -9,11 +9,4 @@ public class User {
     private  String  username1;
     private  Integer id;//用户id////////
 
-
-
-
-
-
-
-
 }
