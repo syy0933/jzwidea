@@ -9,4 +9,5 @@ public class User {
     private  String  username1;
     private  Integer id;//用户id////////
     private  Integer sid;//用户id////////
+    private  Integer tid;//用户id////////
 }
