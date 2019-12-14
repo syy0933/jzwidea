@@ -22,7 +22,7 @@ public class User {
 
     int j;
     int b;
-    Integer H;
+
 
 
     public User(String username1) {
