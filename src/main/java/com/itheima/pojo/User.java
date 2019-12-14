@@ -22,8 +22,6 @@ public class User {
 
     int j;
     int b;
-
-
     Integer H;
 
 
