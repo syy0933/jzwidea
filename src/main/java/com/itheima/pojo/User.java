@@ -24,8 +24,11 @@ public class User {
     int b;
 
 
-
-
+    public User(Integer id, Integer sid, Integer tid) {
+        this.id = id;
+        this.sid = sid;
+        this.tid = tid;
+    }
 
     public User(String username1, Integer id, Integer sid, Integer tid, int idt) {
         this.username1 = username1;
