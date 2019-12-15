@@ -12,9 +12,7 @@ public class User {
     private  Integer tid;//用户id////////
     private int idt;
 
-    public static void main(String[] args) {
 
-    }
     private int  ids;
     private int  ir;
     private int  irs1;
