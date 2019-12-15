@@ -25,9 +25,7 @@ public class User {
 
 
 
-    public User(String username1) {
-        this.username1 = username1;
-    }
+
 
     public User(String username1, Integer id, Integer sid, Integer tid, int idt) {
         this.username1 = username1;
